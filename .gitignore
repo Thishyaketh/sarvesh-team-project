@@ -1,0 +1,16 @@
+# Python / Backend
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+civicpulse.db
+Backend/uploads/
+Backend/models/
+
+# Node / Next.js / Web
+node_modules/
+.next/
+out/
+.env*.local
+npm-debug.log*

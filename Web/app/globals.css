@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+body {
+  background-color: #f5f8fb;
+  color: #0f172a;
+}
